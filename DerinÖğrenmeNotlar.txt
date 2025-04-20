@@ -1,0 +1,13 @@
+Feature Selection (Random Forest)
+
+SMOTE
+
+Normalize
+
+ANN + Dropout + L2
+
+Class Weights
+
+EarlyStopping
+
+Optuna ile Hiperparametre Tuning
